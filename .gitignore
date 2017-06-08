@@ -281,3 +281,4 @@ __pycache__/
 /Blog/Logs
 /Blog/wwwroot/uploads
 /*.sql
+/mongoDB/port1234
